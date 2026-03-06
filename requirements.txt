@@ -1,14 +1,10 @@
 streamlit
 pandas
 numpy
-PyMuPDF
-python-docx
 spacy
+pymupdf
 scikit-learn
+docx2txt
 matplotlib
-google-genai
+google-generativeai
 python-dotenv
-nltk
-torch
-transformers
-sentence-transformers 
